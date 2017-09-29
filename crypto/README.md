@@ -36,3 +36,17 @@
 * [x] 2017 SHA Secure Login
   - RSA
   - no padding
+* [x] 2017 AlexCTF CR3
+  - Simple RSA Decryption
+* [x] 2017 AlexCTF CR4
+  - small primes
+* [x] 2017 Inc0gnito des-ofb
+  - DES-OFB
+  - Predict key, iv
+* [x] 2017 HackCon VizHash
+  - Reversing encrypt algorithm
+  - Bruteforcing
+* [x] 2017 TWCTF My Simple Cipher
+  - Reversing encrypt algorithm
+  - Xor Operation
+  - Bruteforcing

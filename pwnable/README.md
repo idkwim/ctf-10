@@ -65,3 +65,19 @@
   - Object-c
   - FSB (but Object-c version)
   - construct fake frame
+* [x] 2015 32C3 teufel
+  - Virtual Memory Privilege
+  - Stack overflow/underflow
+* [x] 2015 MMA RPS
+  - overwrite random seed
+  - Pwntools(ctypes)
+* [x] 2017 TWCTF Just Do It
+  - 32bit ELF
+  - overwrite local variable
+* [x] 2017 Asis Mrs. Hudson
+  - 64bit ELF
+  - 64bit ROP Gadget
+* [x] 2017 Asis Greg Lestrade
+  - 64bit ELF
+  - integer overflow
+  - format string
